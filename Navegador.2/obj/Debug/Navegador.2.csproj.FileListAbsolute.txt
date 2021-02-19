@@ -1,0 +1,10 @@
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\bin\Debug\Navegador.2.exe.config
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\bin\Debug\Navegador.2.exe
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\bin\Debug\Navegador.2.pdb
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador.2.csprojAssemblyReference.cache
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador._2.Form1.resources
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador._2.Properties.Resources.resources
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador.2.csproj.GenerateResource.cache
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador.2.csproj.CoreCompileInputs.cache
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador.2.exe
+C:\Users\josue\OneDrive\Escritorio\Universidad\Progra\Progra III\Navegador.2\obj\Debug\Navegador.2.pdb
